@@ -1,4 +1,4 @@
-import IceCreamCard from "./IceCreamCard";
+import IceCreamCard from "./icecreamCard";
 
 function IceCreamList() {
   return (
